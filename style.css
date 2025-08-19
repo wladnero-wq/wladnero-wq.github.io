@@ -1,0 +1,47 @@
+.barca {
+
+  text-shadow:
+    0 0 7px #fff,
+    0 0 10px #fff,
+    0 0 21px #fff,
+    0 0 42px #0fa,
+    0 0 82px #0fa,
+    0 0 92px #0fa,
+    0 0 102px #0fa,
+    0 0 151px #0fa;
+    color: red;
+    font-family:Comic Sans MS;
+    font-size: 50px;
+}
+.barca1 {
+  color: white;
+}
+.barca2 {
+  color: white;
+}
+.barca3 {
+  color: white;
+}
+.barca01 {
+  color: white;
+}
+body {
+  background-image: url(Фон3.jpg);
+background-repeat: no-repeat;
+
+background-position: center center;
+
+background-attachment: fixed;
+
+-webkit-background-size: cover;
+
+-moz-background-size: cover;
+
+-o-background-size: cover;
+
+
+}
+.barcawik:hover {
+  color: yellow;
+
+}
